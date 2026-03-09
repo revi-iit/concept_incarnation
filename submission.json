@@ -2,5 +2,6 @@
   "prompt": "A lone hiker standing on a steep, fog-covered mountain slope at dusk, looking down at their feet on the rocky ground. The fog is thick — visibility is only a few meters in any direction. A trail of muddy footprints zigzags down the hillside behind them, showing an irregular path rather than a straight line. Far below in the valley, barely visible through the mist, a small warm campfire glows orange. The hiker's body language suggests careful, deliberate downward movement. Cinematic photography, golden hour light, photorealistic, no text, no labels, no diagrams, no overlays.",
   "model": "DALL-E 3",
   "concept": "Gradient Descent",
-  "metaphor": "The hiker represents the optimization process, carefully navigating the 'loss landscape' of the mountain slope. The fog symbolizes the uncertainty and local minima that can obscure the path to the global minimum. The footprints indicate the iterative nature of gradient descent, while the distant campfire represents the optimal solution that is visible but not easily reachable."
+  "metaphor": "The hiker symbolizes optimization navigating a loss landscape; fog reflects uncertainty and local minima; footprints show gradient descent iterations; a distant campfire marks the visible yet hard-to-reach global optimal solution."
+
 }
